@@ -1,0 +1,8 @@
+{
+  "name": "nthchild",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vitorzerbeto/nthchild.git",
+  "author": "Vitor Zerbeto <v.mzerbeto@gmail.com>",
+  "license": "MIT"
+}
